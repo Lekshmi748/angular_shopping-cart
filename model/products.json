@@ -1,0 +1,8 @@
+[
+    {"p_id": "1", "p_name": "Samsung Galaxy Watch4", "p_image": "assets/images/watch.png", "p_price": 39999},
+    {"p_id": "2", "p_name": "American Tourister Trolley Bag", "p_image": "assets/images/trolley.png", "p_price": 4000},
+    {"p_id": "3", "p_name": "Nikon Z5 Mirrorless DSLR Camera", "p_image": "assets/images/camera.png", "p_price": 165000},
+    {"p_id": "4", "p_name": "Lenovo Yoga 9i Laptop", "p_image": "assets/images/laptop.png", "p_price": 169990},
+    {"p_id": "5", "p_name": "Apple iPhone 13 Pro Max", "p_image": "assets/images/iphone.png", "p_price": 179999},
+    {"p_id": "6", "p_name": "Airpods Max with smart case", "p_image": "assets/images/airpod.png", "p_price": 59000}
+]
